@@ -1,6 +1,8 @@
 # DevOps-Course-2024
 DevOps Assignment 3
 
+# My Resume:
+                                             
 # Ayra Alamdar  
 
 Welcome to my GitHub! I am Ayra Alamdar, a passionate Computer Science undergraduate at FAST NUCES University, Islamabad. I specialize in designing and developing innovative solutions, from efficient algorithms to seamless user interfaces.  
@@ -24,14 +26,6 @@ Relevant Coursework: Mathematics, Physics, Chemistry
 
 **Programming Languages:** C, C++, Python, Java, SQL, JavaScript, MATLAB, Assembly Language  
 **Frameworks and Tools:** React, Proteus, HTML, Android Studio, Canva  
-
-## 📝 Blogs
-
-### Virtual Machines: The Silent Heros of the Modern World of Computing
-Virtual machines (VMs) are software-based simulations of physical computers that have significantly impacted modern computing by optimizing resource usage, enhancing security, and providing flexibility. They allow organizations to reduce costs, improve security, and scale resources easily. VMs have revolutionized software development, remote work, education, and training by offering secure, isolated environments. Their widespread adoption has contributed to environmental benefits, economic savings, and the democratization of high-performance computing, enabling small businesses and startups to access resources once limited to large corporations. Ultimately, VMs are central to the evolution of digital technology, silently powering much of today's computing infrastructure.
-
-### Terraforming the Cloud: Deploying Kubernetes with EKS and Terraform
-This blog outlines the process of deploying and managing Amazon Elastic Kubernetes Service (EKS) clusters using Terraform, a tool for defining and provisioning infrastructure as code (IaC). It explains the benefits of using Terraform with EKS, such as reproducibility, version control, and multi-cloud support. The blog details the architecture of a continuous integration (CI) pipeline using tools like Jenkins, Docker Hub, and AWS Cloud9, highlighting the deployment flow from GitHub to EKS clusters. The configuration example demonstrates how to set up an EKS cluster, including VPC, security groups, and variables, with best practices like remote state management, IAM roles, and version control for efficient deployment and maintenance.
 
 ## 🚀 Projects  
 
@@ -72,3 +66,19 @@ A game project utilizing various graph algorithms in C++.
 - **Phone:** +92 340 0547939  
 - **LinkedIn:** [linkedin.com/in/ayra-alamdar](https://linkedin.com/in/ayra-alamdar)  
 - **GitHub:** [github.com/ayra-alamdar](https://github.com/ayra-alamdar)  
+
+# Summary of my Blogs
+
+## Virtual Machines: The Silent Heros of the Modern World of Computing
+Virtual machines (VMs) are software-based simulations of physical computers that have significantly impacted modern computing by optimizing resource usage, enhancing security, and providing flexibility. They allow organizations to reduce costs, improve security, and scale resources easily. VMs have revolutionized software development, remote work, education, and training by offering secure, isolated environments. Their widespread adoption has contributed to environmental benefits, economic savings, and the democratization of high-performance computing, enabling small businesses and startups to access resources once limited to large corporations. Ultimately, VMs are central to the evolution of digital technology, silently powering much of today's computing infrastructure.
+
+## Terraforming the Cloud: Deploying Kubernetes with EKS and Terraform
+This blog outlines the process of deploying and managing Amazon Elastic Kubernetes Service (EKS) clusters using Terraform, a tool for defining and provisioning infrastructure as code (IaC). It explains the benefits of using Terraform with EKS, such as reproducibility, version control, and multi-cloud support. The blog details the architecture of a continuous integration (CI) pipeline using tools like Jenkins, Docker Hub, and AWS Cloud9, highlighting the deployment flow from GitHub to EKS clusters. The configuration example demonstrates how to set up an EKS cluster, including VPC, security groups, and variables, with best practices like remote state management, IAM roles, and version control for efficient deployment and maintenance.
+
+## third blog:
+Link: https://medium.com/@ayraalamdar309/mastering-service-mesh-with-istio-a-comprehensive-guide-c64d3c2fa99c
+
+# React Project Compilation Workflow
+
+This repository uses a GitHub Actions workflow to ensure that any code pushed to the `main` branch or submitted via a pull request compiles successfully. The workflow automates the process by checking out the code, setting up a Node.js environment, installing dependencies, running the React build script (`npm run build`), and verifying the existence of the `build` directory. If the build fails, the workflow alerts contributors to fix issues, ensuring code quality and preventing broken builds from being merged.
+link to my repository for this: https://github.com/ayra-alamdar/Github-actions-test.git
